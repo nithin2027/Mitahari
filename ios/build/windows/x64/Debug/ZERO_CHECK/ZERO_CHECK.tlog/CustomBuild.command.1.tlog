@@ -1,0 +1,10 @@
+^E:\APP DEVELOPMENT\MITAHARI\BUILD\WINDOWS\CMAKEFILES\CF0B061FD4975D87EAC7EE1CEE9B53D4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SE:/App Development/mitahari/windows" "-BE:/App Development/mitahari/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/App Development/mitahari/build/windows/mitahari.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,11 @@
+E:/App Development/mitahari/build/windows/runner/Debug/data/icudtl.dat
+E:/App Development/mitahari/build/windows/runner/Debug/flutter_windows.dll
+E:/App Development/mitahari/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/App Development/mitahari/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/App Development/mitahari/build/windows/runner/Debug/data/flutter_assets/assets/icons/logo.jpg
+E:/App Development/mitahari/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/App Development/mitahari/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/App Development/mitahari/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/App Development/mitahari/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/App Development/mitahari/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/App Development/mitahari/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

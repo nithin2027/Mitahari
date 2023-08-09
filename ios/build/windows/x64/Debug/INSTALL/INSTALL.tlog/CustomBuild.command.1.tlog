@@ -1,0 +1,10 @@
+^E:\APP DEVELOPMENT\MITAHARI\BUILD\WINDOWS\CMAKEFILES\CF0B061FD4975D87EAC7EE1CEE9B53D4\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
